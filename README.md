@@ -1,4 +1,4 @@
-# ✦ ChessBot Studio v16.0 ✦
+# ✦ ChessBot Studio  ✦
 
 <div align="center">
 
